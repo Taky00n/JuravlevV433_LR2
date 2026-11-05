@@ -1,0 +1,11 @@
+Drivers
+EWARM
+.cproject
+.mxproject
+.project
+.settings
+STM32F103C8TX_FLASH.ld
+Core/*
+!Core/Src/
+Core/Src/*
+!Core/Src/main.c
